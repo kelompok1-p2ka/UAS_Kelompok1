@@ -14,27 +14,6 @@ a{color:var(--orange)}
 
 /* nav */
 .yb-nav{padding:.9rem 0;transition:background .3s,box-shadow .3s}
-
-/* LOGO YOU BAKE */
-.yb-logo {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-weight: 800;
-    font-size: 1.5rem;
-    color: var(--orange);
-    text-decoration: none;
-}
-
-.yb-logo-img {
-    width: 45px;
-    height: 45px;
-    object-fit: contain;
-    border-radius: 50%;
-}
-
-/* nav */
-.yb-nav{padding:.9rem 0;transition:background .3s,box-shadow .3s}
 .yb-nav.scrolled{background:rgba(42,23,15,.96);backdrop-filter:blur(8px);box-shadow:0 6px 24px rgba(0,0,0,.2)}
 .yb-logo{font-weight:800;font-size:1.5rem;color:var(--orange);text-decoration:none}
 .yb-nav .nav-link{color:#fff;opacity:.85;font-weight:500;padding:.5rem 1rem}
